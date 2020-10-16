@@ -1,0 +1,1 @@
+This repository is being used for the sole purpose of storing Python files to be accessed by the course instructor. It contains .py file created during weeky scripting assignments. 
